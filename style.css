@@ -1,0 +1,306 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 1440px;
+
+}
+
+.suu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.plpl{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.cocoml{
+    gap: 200px;
+}
+
+.jo{
+    width: 146px;
+    height: 40px;
+    background-color: white;
+    border-radius: 9999px;
+    border: solid 2px #2D2641;
+}
+
+.hoo{
+    color: #837D88;
+}
+
+.kop{
+    font-size: 72px;
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+
+.foo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.oooo{
+    display: none;
+}
+
+
+
+.po{
+    color: white;
+    margin-top: 20px;
+}
+
+.box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transform: scale(30deg);
+}
+
+.joi{
+    width: 146px;
+    height: 40px;
+    background-color: #FFFFFF;
+    border: solid 2.5px #2D2641;
+    margin-top: 20px;
+
+    
+}
+
+.ppp{
+    background-color: #2D2641;
+}
+
+.fofo{
+    font-size: 72px;
+    margin-top: 130px;
+}
+
+.fp{
+    padding: 109px;
+}
+
+.lop{
+    width: 86px;
+    height: 86px;
+    background-color: #2D2641;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.oioi{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    gap: 400px;
+}
+
+.bobo{
+    font-size: 28px;
+}
+
+.bibi{
+    width: 210px;
+    font-size: 16px;
+    color: #837D88;
+}
+
+.jop{
+    background-color: #52476f;
+    width: 1110px;
+    height: 250px;
+    padding:  61px 81px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.folo{
+    font-size: 56px;
+    color: #FFFFFF;
+    
+}
+
+
+.ghj{
+    padding: 200px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gogo{
+    width: 160px;
+    height: 40px;
+    border: solid 3px  rgb(250, 248, 248);
+    background-color: #b09aed;
+    color: #FFFFFF;
+}
+
+
+footer{
+    background-color: #FAFAFA;
+}
+
+.kalamush{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 20px;
+
+    
+    
+}
+
+.o{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+    row-gap: 30px;
+
+   
+}
+
+.d{
+   
+    color: black;
+}
+
+.e{
+    width: 40px;
+   
+
+    color: #837D88;
+}
+@media(max-width :400px){
+.foo{
+    flex-direction: column-reverse;
+    padding: 20px 20px;
+
+}
+
+.suu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
+
+.header{
+    width: 373px;
+    padding: 20px 20px;
+}
+
+  
+
+  
+
+  .jop{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    gap: 50px;
+  }
+  
+.lo{
+    width: 375px;
+    height: 451px;
+}
+
+.kop{
+    text-align: center;
+}
+
+.po{
+    text-align: center;
+}
+.joi{
+    background-color: white;
+    border-radius: 2px #2D2641;
+    width: 146px;
+    height: 40px;
+    border-radius: 9999px;
+    text-align: center;
+}
+.ppp{
+    width: 100%;
+    margin: 0 auto;
+}
+.plpl{
+    display: none;
+}
+
+.oooo{
+    display: block;
+    
+}
+.oioi{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.lop{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.foo{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.kalamus{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    flex-direction: column;
+}
+.uio{
+    width: 270px;
+    height: 300px;
+
+}
+.jo{
+    display: flex;
+    align-items: center;
+    justify-self:center;
+}
+
+.fofo{
+    text-align: center;
+}
+
+.o{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 50px;
+}
+
+}
